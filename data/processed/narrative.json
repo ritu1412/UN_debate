@@ -1,0 +1,100 @@
+[
+  {
+    "country": "France",
+    "Narrative": {
+      "sentiment": "France's stance on the Iraq War was consistently critical and cautious. The sentiment expressed in their speeches ranged from solemn concern to firm opposition against the conditions under which the war was initiated.",
+      "keypoints": [
+        "France was deeply concerned that the Iraq War was launched without the authorization of the UN Security Council.",
+        "France emphasized the importance of transferring sovereignty back to the Iraqi people.",
+        "France advocated for the UN to play a central role in Iraq's political transition.",
+        "France consistently stated its refusal to commit militarily to Iraq.",
+        "France reiterated its belief in multilateralism and the UN's role in maintaining international peace and security."
+      ],
+      "reasoning": "France's opposition to the Iraq War was grounded in a commitment to multilateralism, respect for international law, and the belief that the use of force should only be authorized by the UN Security Council. The country saw the war as a threat to the legitimacy of the United Nations and a potential source of long-term instability in the region."
+    }
+  },
+  {
+    "country": "India",
+    "Narrative": {
+      "sentiment": "India's sentiment toward the Iraq War during this period was one of cautious concern, marked by a preference for diplomacy and a wariness of unilateral military actions that bypassed international consensus.",
+      "keypoints": [
+        "India highlighted the importance of the UN in addressing the Iraq crisis.",
+        "India was critical of the lack of agreement among the permanent members of the UN Security Council.",
+        "India stressed the importance of empowering the Iraqi people to determine their own future.",
+        "India linked the Iraq conflict with broader concerns about terrorism.",
+        "India highlighted concerns about the proliferation of weapons of mass destruction (WMDs) in the region."
+      ],
+      "reasoning": "India's stance was rooted in its commitment to multilateralism and respect for international law. The country viewed the UN as the appropriate forum for addressing global security challenges and was concerned that bypassing the UN would set a dangerous precedent. India's emphasis on Iraqi sovereignty and the need for reconstruction reflected its belief that stability in Iraq was essential for regional and global peace."
+    }
+  },
+  {
+    "country": "Iran",
+    "Narrative": {
+      "sentiment": "Iran's sentiment toward the Iraq War during this period was one of strong opposition and concern, marked by a call for justice, peace, and the withdrawal of occupying forces.",
+      "keypoints": [
+        "Iran criticized the Iraq War as illegal and a violation of international law.",
+        "Iran expressed concern about the destabilizing effects of the Iraq War on the Middle East.",
+        "Iran emphasized the importance of restoring Iraqi sovereignty.",
+        "Iran highlighted the humanitarian crisis caused by the war.",
+        "Iran was critical of the role played by Western powers, particularly the United States."
+      ],
+      "reasoning": "Iran's narrative on the Iraq War was rooted in its broader foreign policy principles, which prioritize respect for national sovereignty, non-interference in the internal affairs of other countries, and the rule of international law. Iran's emphasis on justice and peace reflects its desire for a more equitable and just international system, free from the domination of powerful states."
+    }
+  },
+  {
+    "country": "Iraq",
+    "Narrative": {
+      "sentiment": "The sentiment expressed by Iraq from 2003 to 2007 reflects a complex and evolving perspective on the Iraq War, initially marked by cautious optimism and gratitude, later shifting towards frustration and urgency.",
+      "keypoints": [
+        "Iraq acknowledged the role of the United States and coalition forces in liberating the country.",
+        "Iraq emphasized the significant challenges the country faces, including terrorism and the need for stability.",
+        "Iraq’s narrative increasingly focused on the importance of national reconciliation and the fight against terrorism.",
+        "Iraq expressed frustration with regional and external actors exacerbating internal conflicts.",
+        "Iraq articulated a vision of becoming a stable, democratic, and prosperous nation."
+      ],
+      "reasoning": "Iraq’s reasoning is driven by the desire to secure international legitimacy, attract foreign aid and investment, and ensure the success of its nascent democratic institutions. The emphasis on national reconciliation and security reflects Iraq's recognition that these are prerequisites for long-term stability and development."
+    }
+  },
+  {
+    "country": "Saudi Arabia",
+    "Narrative": {
+      "sentiment": "Saudi Arabia's sentiment regarding the Iraq War from 2003 to 2007 is a mix of concern, caution, and a desire for stability in the region.",
+      "keypoints": [
+        "Saudi Arabia expressed concern over the instability and chaos in Iraq following the collapse of Saddam Hussein's regime.",
+        "Saudi Arabia called for greater international and regional cooperation to address the challenges facing Iraq.",
+        "Saudi Arabia underscored the importance of national reconciliation and the disarmament of militias in Iraq.",
+        "Saudi Arabia expressed concern over the increasing sectarian violence in Iraq and the influence of external actors.",
+        "Saudi Arabia emphasized the importance of international support for Iraq's reconstruction efforts."
+      ],
+      "reasoning": "Saudi Arabia’s reasoning is driven by its strategic interest in maintaining regional stability and preventing the spread of sectarian violence. The country’s cautious approach to the Iraq War reflects its concerns about the potential consequences of instability in Iraq for the broader Middle East."
+    }
+  },
+  {
+    "country": "United States",
+    "Narrative": {
+      "sentiment": "The sentiment of the United States regarding the Iraq War during this period is one of justification and resolve, framed within a broader ideological struggle against terrorism and tyranny.",
+      "keypoints": [
+        "The U.S. argued that the Iraq War was justified due to Saddam Hussein's defiance of UN Security Council resolutions.",
+        "The U.S. emphasized the liberation of the Iraqi people and the establishment of a democratic government as central achievements of the war.",
+        "The U.S. expressed a commitment to stand by Iraq as it faced challenges in its transition to democracy.",
+        "The U.S. consistently framed the Iraq War as part of a larger struggle against terrorism and extremism.",
+        "The U.S. called on the international community to support Iraq’s reconstruction and democratization efforts."
+      ],
+      "reasoning": "The U.S. reasoning is rooted in the belief that the Iraq War was essential for global security and the promotion of democratic values. The U.S. viewed Saddam Hussein’s regime as a significant threat, and by removing him and establishing a democratic government, aimed to create a stable Iraq that could serve as a model for the Middle East."
+    }
+  },
+  {
+    "country": "China",
+    "Narrative": {
+      "sentiment": "China's sentiment toward the Iraq War from 2003 to 2007 is one of concern and caution, reflecting a preference for diplomacy, multilateralism, and respect for international law over unilateral military actions.",
+      "keypoints": [
+        "China repeatedly expressed its opposition to the use of force in international relations.",
+        "China strongly supports the United Nations' central role in handling post-war arrangements and reconstruction in Iraq.",
+        "China calls for the restoration of Iraq’s sovereignty and supports efforts for Iraq's reconstruction.",
+        "China expresses concerns about the ongoing instability in Iraq and the broader region following the war.",
+        "China mentions the need to address humanitarian crises resulting from the conflict in Iraq."
+      ],
+      "reasoning": "China's reasoning is rooted in its principles of non-interference, respect for sovereignty, and a strong belief in multilateralism. China argues that the use of force without UN authorization sets a dangerous precedent and undermines the international legal framework. The narrative suggests that China sees the Iraq War as a cautionary tale about the risks of unilateral military action."
+    }
+  }
+]

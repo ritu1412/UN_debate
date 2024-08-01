@@ -1,0 +1,50 @@
+{
+    "Q1": {
+        "question": "Does the speech emphasize the importance of the United Nations' role in legitimizing military interventions?",
+        "choices": {
+            "A": "Yes, the speech strongly supports the need for UN authorization before military action.",
+            "B": "No, the speech justifies military action regardless of UN authorization.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q2": {
+        "question": "Is the restoration of Iraqi sovereignty and the transfer of power to the Iraqi people a primary focus of the speech?",
+        "choices": {
+            "A": "Yes, the speech highlights the importance of Iraqi sovereignty and self-determination.",
+            "B": "No, the speech focuses more on other issues, such as global security or regional stability.",
+            "C": "The speech does not specifically mention Iraqi sovereignty."
+        }
+    },
+    "Q3": {
+        "question": "Does the speech criticize Western powers, particularly the United States, for their actions in the Iraq War?",
+        "choices": {
+            "A": "Yes, the speech is critical of Western powers and their role in the Iraq War.",
+            "B": "No, the speech either supports Western actions or does not focus on them.",
+            "C": "The speech does not address Western powers directly."
+        }
+    },
+    "Q4": {
+        "question": "Does the speech link the Iraq War to broader global concerns, such as terrorism or the proliferation of weapons of mass destruction?",
+        "choices": {
+            "A": "Yes, the speech connects the Iraq War to broader global concerns like terrorism or WMDs.",
+            "B": "No, the speech focuses more on the specifics of the Iraq War without tying it to broader global issues.",
+            "C": "The speech does not address broader global concerns."
+        }
+    },
+    "Q5": {
+        "question": "Does the speech express cautious optimism about the potential for rebuilding and democratization in Iraq?",
+        "choices": {
+            "A": "Yes, the speech expresses hope for Iraq's future, despite acknowledging challenges.",
+            "B": "No, the speech is more critical or pessimistic about Iraq's future.",
+            "C": "The speech does not express a clear sentiment about Iraq's future."
+        }
+    },
+    "Q6": {
+        "question": "Does the speech emphasize the importance of regional stability in the Middle East?",
+        "choices": {
+            "A": "Yes, the speech highlights the impact of the Iraq War on regional stability in the Middle East.",
+            "B": "No, the speech focuses primarily on Iraq's internal situation.",
+            "C": "The speech does not address regional stability."
+        }
+    }
+}
