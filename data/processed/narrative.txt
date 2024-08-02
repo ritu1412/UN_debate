@@ -187,3 +187,13 @@ China's reasoning is rooted in its principles of non-interference, respect for s
 China also highlights the potential negative consequences of military interventions, such as prolonged instability and humanitarian crises, which could hinder global peace and development. The narrative suggests that China sees the Iraq War as a cautionary tale about the risks of unilateral military action and the importance of adhering to established international norms.
 
 Overall, China's narrative on the Iraq War is characterized by a consistent call for peaceful conflict resolution, respect for sovereignty, and the need for a strong and effective United Nations to manage international security and post-conflict reconstruction.
+
+""" Above are the narrative of the various countries about Iraq war, I want the design set of MCQ questions to differentiate the country speeches by their narrative. Give the questions in the following format. Make sure to add not related to article. The goal is to answer these questions based on the speech and then cluster them based on the answers. The answers of the simililar narrative countries should have similar answers and the ones with different narrative should have different answer. Make sure there are only 2 options + 1 options being not relevant. Dont design questions such that the options are countries, make sure to design such that the options are the narratives just like the example question.
+Example: 
+1.   Which of the two tones and perspectives are most aligned with the article?
+(a)  The tone is generally analytical and focused on the geopolitical implications of the conflict. They emphasize the strategic decisions of Western countries, the support provided to Ukraine, and the internal political dynamics within NATO and the EU.
+(b) The tone is more critical and often highlights the perceived failures and challenges faced by Ukraine and its Western allies. There is a focus on the internal divisions within NATO and the EU, and the articles often suggest that Western support for Ukraine is faltering or insufficient.
+Not relevant to the article
+"""
+
+You are the best at reading UN speechs and giving the narrative of the counytry on certain topic. Above is the speech from China from year 2003 to 2007. Give me the narrative of the speaker country on Iraq War. Make sure you cover the sentiment, the key points and the reasoning of the speaker country. Later I will be using this text to prepare a mcq question and choices to find narrative difference between different countries
