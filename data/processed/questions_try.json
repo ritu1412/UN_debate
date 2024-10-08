@@ -1,0 +1,82 @@
+{
+    "Q1": {
+        "question": "Does the speech emphasize the importance of multilateralism and the role of the United Nations in addressing international conflicts?",
+        "choices": {
+            "A": "Yes, the speech strongly advocates for multilateralism and UN involvement.",
+            "B": "No, the speech supports unilateral military action without UN authorization.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q2": {
+        "question": "Does the speech express concern for the humanitarian impact on the Iraqi people?",
+        "choices": {
+            "A": "Yes, the speech highlights the suffering and humanitarian crisis in Iraq.",
+            "B": "No, the speech focuses primarily on military objectives and security threats.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q3": {
+        "question": "Is there a critique of unilateral military actions that bypass the United Nations?",
+        "choices": {
+            "A": "Yes, the speech criticizes unilateral actions and emphasizes the need for UN legitimacy.",
+            "B": "No, the speech supports unilateral actions as necessary for security.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q4": {
+        "question": "Does the speech advocate for the restoration of Iraq's sovereignty and independence?",
+        "choices": {
+            "A": "Yes, the speech emphasizes the importance of Iraq's sovereignty and self-determination.",
+            "B": "No, the speech suggests that foreign intervention is necessary for stability.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q5": {
+        "question": "Is there an emphasis on the need for a political process leading to a representative Iraqi government?",
+        "choices": {
+            "A": "Yes, the speech calls for a clear roadmap for establishing a representative government.",
+            "B": "No, the speech focuses on military solutions rather than political processes.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q6": {
+        "question": "Does the speech highlight the need for international cooperation in rebuilding Iraq?",
+        "choices": {
+            "A": "Yes, the speech stresses the importance of international support for reconstruction.",
+            "B": "No, the speech suggests that Iraq can rebuild independently without external help.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q7": {
+        "question": "Is there a focus on the moral responsibility to protect the Iraqi people from oppression?",
+        "choices": {
+            "A": "Yes, the speech emphasizes a moral duty to protect human rights in Iraq.",
+            "B": "No, the speech prioritizes strategic interests over humanitarian concerns.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q8": {
+        "question": "Does the speech express skepticism about the effectiveness of military intervention?",
+        "choices": {
+            "A": "Yes, the speech questions the effectiveness and consequences of military action.",
+            "B": "No, the speech supports military intervention as a necessary solution.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q9": {
+        "question": "Is there a call for a comprehensive approach to peace and security in the Middle East?",
+        "choices": {
+            "A": "Yes, the speech advocates for addressing broader regional issues for stability.",
+            "B": "No, the speech focuses solely on Iraq without considering regional dynamics.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q10": {
+        "question": "Does the speech link the situation in Iraq to the broader fight against terrorism?",
+        "choices": {
+            "A": "Yes, the speech connects Iraq's situation to global terrorism and security threats.",
+            "B": "No, the speech does not mention terrorism in relation to Iraq.",
+            "C": "The speech does not address this issue."
+        }
+    }
+}
