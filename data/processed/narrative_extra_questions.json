@@ -1,0 +1,242 @@
+{
+    "Q1": {
+        "question": "Does the speech emphasize the importance of multilateralism in addressing the Iraq conflict?",
+        "choices": {}
+    },
+    "Q2": {
+        "question": "Does the speech express concern for the humanitarian impact of the Iraq War?",
+        "choices": {
+            "A": "Yes, the speech advocates for collective action through international organizations.",
+            "B": "No, the speech supports unilateral military actions by powerful nations.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q3": {
+        "question": "Does the speech advocate for the sovereignty and self-determination of the Iraqi people?",
+        "choices": {}
+    },
+    "Q4": {
+        "question": "Does the speech call for dialogue and diplomatic solutions to resolve the Iraq conflict?",
+        "choices": {
+            "A": "Yes, the speech highlights the suffering of civilians and calls for humanitarian assistance.",
+            "B": "No, the speech focuses solely on military objectives and security concerns.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q5": {
+        "question": "Does the speech critique the actions of occupying forces in Iraq?",
+        "choices": {}
+    },
+    "Q6": {
+        "question": "Does the speech emphasize the need for international cooperation in rebuilding Iraq?",
+        "choices": {
+            "A": "Yes, the speech emphasizes the need to respect Iraq's sovereignty and allow its people to govern themselves.",
+            "B": "No, the speech supports external intervention in Iraq's governance.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q7": {
+        "question": "Does the speech express skepticism about the effectiveness of military solutions?",
+        "choices": {}
+    },
+    "Q8": {
+        "question": "Does the speech link the situation in Iraq to broader regional stability concerns?",
+        "choices": {
+            "A": "Yes, the speech strongly advocates for negotiations and peaceful resolutions.",
+            "B": "No, the speech promotes military intervention as the primary solution.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q9": {
+        "question": "Does the speech advocate for reforms within the United Nations to address global conflicts?",
+        "choices": {}
+    },
+    "Q10": {
+        "question": "Does the speech emphasize the importance of protecting human rights in the context of the Iraq War?",
+        "choices": {
+            "A": "Yes, the speech condemns the presence of foreign troops and calls for their withdrawal.",
+            "B": "No, the speech supports the actions of occupying forces as necessary for stability.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q11": {
+        "question": "Does the speech emphasize the importance of multilateralism in addressing the Iraq War?",
+        "choices": {}
+    },
+    "Q12": {
+        "question": "Does the speech express concern for the humanitarian impact of the Iraq War?",
+        "choices": {
+            "A": "Yes, the speech advocates for collective action through international organizations like the United Nations.",
+            "B": "No, the speech supports unilateral military actions by powerful nations.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q13": {
+        "question": "Does the speech advocate for a political solution to the conflict in Iraq?",
+        "choices": {}
+    },
+    "Q14": {
+        "question": "Does the speech condemn the actions of the previous Iraqi regime?",
+        "choices": {
+            "A": "Yes, the speech highlights the suffering of civilians and calls for humanitarian assistance.",
+            "B": "No, the speech focuses solely on military strategies and security concerns.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q15": {
+        "question": "Does the speech express solidarity with the Iraqi people?",
+        "choices": {}
+    },
+    "Q16": {
+        "question": "Does the speech critique the justification for the Iraq War based on weapons of mass destruction?",
+        "choices": {
+            "A": "Yes, the speech emphasizes the need for dialogue and political reconciliation among Iraqi factions.",
+            "B": "No, the speech suggests that military intervention is the only solution.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q17": {
+        "question": "Does the speech emphasize the need for respect for national sovereignty?",
+        "choices": {}
+    },
+    "Q18": {
+        "question": "Does the speech highlight the interconnectedness of global security issues?",
+        "choices": {
+            "A": "Yes, the speech strongly criticizes the human rights violations committed by Saddam Hussein's government.",
+            "B": "No, the speech defends the actions of the previous regime.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q19": {
+        "question": "Does the speech call for accountability for human rights violations?",
+        "choices": {}
+    },
+    "Q20": {
+        "question": "Does the speech advocate for a comprehensive approach to post-conflict reconstruction?",
+        "choices": {
+            "A": "Yes, the speech shows empathy for the suffering of the Iraqi population and calls for support.",
+            "B": "No, the speech focuses on the geopolitical interests of other nations.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q21": {
+        "question": "Does the speech emphasize the importance of multilateralism in addressing the Iraq War?",
+        "choices": {}
+    },
+    "Q22": {
+        "question": "Does the speech express concern for the humanitarian impact of the Iraq War on civilians?",
+        "choices": {
+            "A": "Yes, the speech strongly advocates for multilateral approaches and collective action.",
+            "B": "No, the speech supports unilateral military actions without regard for multilateralism.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q23": {
+        "question": "Does the speech advocate for the restoration of Iraq's sovereignty and self-determination?",
+        "choices": {}
+    },
+    "Q24": {
+        "question": "Does the speech call for a political solution and national reconciliation among Iraqi factions?",
+        "choices": {
+            "A": "Yes, the speech highlights the suffering of civilians and calls for humanitarian assistance.",
+            "B": "No, the speech focuses solely on military objectives without mentioning humanitarian concerns.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q25": {
+        "question": "Does the speech critique the unilateral military actions taken by some nations?",
+        "choices": {}
+    },
+    "Q26": {
+        "question": "Does the speech highlight the role of the United Nations in facilitating Iraq's reconstruction?",
+        "choices": {
+            "A": "Yes, the speech emphasizes the need to respect Iraq's sovereignty and allow its people to govern themselves.",
+            "B": "No, the speech supports external intervention in Iraq's governance.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q27": {
+        "question": "Does the speech emphasize the need to address the root causes of conflict, such as poverty and inequality?",
+        "choices": {}
+    },
+    "Q28": {
+        "question": "Does the speech express solidarity with the Iraqi people and their struggles?",
+        "choices": {
+            "A": "Yes, the speech stresses the importance of dialogue and reconciliation for stability.",
+            "B": "No, the speech suggests that military solutions are the only way to achieve peace.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q29": {
+        "question": "Does the speech advocate for a comprehensive approach that includes humanitarian aid and development?",
+        "choices": {}
+    },
+    "Q30": {
+        "question": "Does the speech highlight the need for accountability for human rights violations in Iraq?",
+        "choices": {
+            "A": "Yes, the speech criticizes unilateral actions and emphasizes the need for collective decision-making.",
+            "B": "No, the speech supports unilateral military actions as necessary for security.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q31": {
+        "question": "Does the speech emphasize the need for multilateralism in addressing the Iraq conflict?",
+        "choices": {}
+    },
+    "Q32": {
+        "question": "Is there a strong condemnation of violence and terrorism in the speech?",
+        "choices": {
+            "A": "Yes, the speech advocates for a multilateral approach to conflict resolution.",
+            "B": "No, the speech supports unilateral actions without regard for multilateral cooperation.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q33": {
+        "question": "Does the speech call for the restoration of Iraqi sovereignty and self-determination?",
+        "choices": {}
+    },
+    "Q34": {
+        "question": "Is there a focus on humanitarian concerns and the impact of the war on civilians?",
+        "choices": {
+            "A": "Yes, the speech condemns violence and emphasizes the need for peace.",
+            "B": "No, the speech justifies the use of force as a necessary measure.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q35": {
+        "question": "Does the speech critique the use of military solutions to resolve conflicts?",
+        "choices": {}
+    },
+    "Q36": {
+        "question": "Is there an emphasis on the role of the United Nations in the peace process?",
+        "choices": {
+            "A": "Yes, the speech emphasizes the importance of Iraqi sovereignty and self-governance.",
+            "B": "No, the speech supports continued foreign intervention in Iraq.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q37": {
+        "question": "Does the speech express concern about the broader implications of the Iraq War for regional stability?",
+        "choices": {}
+    },
+    "Q38": {
+        "question": "Is there a call for international cooperation to assist Iraq in its recovery?",
+        "choices": {
+            "A": "Yes, the speech highlights the humanitarian crisis and the suffering of civilians.",
+            "B": "No, the speech primarily focuses on military objectives and strategies.",
+            "C": "The speech does not address this issue."
+        }
+    },
+    "Q39": {
+        "question": "Does the speech highlight the importance of addressing the root causes of conflict?",
+        "choices": {}
+    },
+    "Q40": {
+        "question": "Is there a moral argument presented regarding the intervention in Iraq?",
+        "choices": {
+            "A": "Yes, the speech argues against military interventions and advocates for diplomatic solutions.",
+            "B": "No, the speech supports military action as the primary means of resolution.",
+            "C": "The speech does not address this issue."
+        }
+    }
+}
